@@ -1,5 +1,5 @@
 # bbbadminton Deploy
 
-自动部署于 2026-10-02 16:00:58 UTC
+羽毛球教程 - 自动部署于 2026-10-03 00:01:05 UTC
 
 访问: https://bbbadminton.github.io/
